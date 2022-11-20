@@ -35,7 +35,7 @@ main {
   right: 27%;
   font-size: clamp(15px,5vw, 25px) /*clamp(min-height, normal-height, max-height)*/
 }
-.pokemon__name {
+.pokemon__nome {
   color: #3a444d;
   text-transform: capitalize;
 }
